@@ -10,8 +10,18 @@ We believe that cyber security has a fundamental role to play in protecting the 
 
 This project was created to enable that conversation, helping people secure their products and services running in the cloud by providing a set of easy to use threat and control stories that pool together the expertise and experience of the development, operations, and security communities.
 
-You can find the main OWASP project page here: https://www.owasp.org/index.php/OWASP_Cloud_Security_Project
+For further information please see the [OWASP Cloud Security Project](https://www.owasp.org/index.php/OWASP_Cloud_Security_Project) 
 
-# Using the blog
+---
 
-TBC
+## Using the blog
+
+### Publishing a blog post
+
+Each blog post must be in the `/_posts` folder and be in the format: `2018-1-1-Hello-World.md`
+
+The file format is markdown so this [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might come in handy.
+
+![First Post](/images/first-post.png "First Post")
+
+> You can add additional posts in the browser on GitHub.com too! Just hit the + icon in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
