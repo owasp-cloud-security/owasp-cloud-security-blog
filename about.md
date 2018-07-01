@@ -22,6 +22,4 @@ Each blog post must be in the `/_posts` folder and be in the format: `2018-1-1-H
 
 The file format is markdown so this [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might come in handy.
 
-![First Post](/images/first-post.png "First Post")
-
 > You can add additional posts in the browser on GitHub.com too! Just hit the + icon in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
